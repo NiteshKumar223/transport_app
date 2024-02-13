@@ -1,0 +1,13 @@
+import 'package:flutter/material.dart';
+final Color colorprimary = Colors.yellow.shade700;
+final Color colorprimarymid = Color.fromARGB(255, 36, 107, 73);
+final Color colorprimarylight = Color.fromARGB(244, 215, 235, 226);
+final Color colorsec = Colors.blue.shade300;
+final Color colorsecdark = Colors.blue.shade600;
+final Color colorwhite = Colors.white;
+final Color colorblack = Colors.black;
+final Color colorgrey = Colors.black54;
+final Color colorgrey1 = Colors.grey.shade200;
+final Color colorhover = Colors.pink.shade100;
+final Color colorcal1 = Colors.blue.shade300;
+final Color colorcal2 = Colors.blue.shade600;

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "265795763784",
+    "project_id": "testlogin-bebe9",
+    "storage_bucket": "testlogin-bebe9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:265795763784:android:ac50c6cdbdf723b244a27d",
+        "android_client_info": {
+          "package_name": "com.example.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAS6y1vkuQw1ZF0dF3THLj2tZWqAC9EYrE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
